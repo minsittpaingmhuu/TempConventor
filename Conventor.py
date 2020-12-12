@@ -1,5 +1,8 @@
 #intro
-print ("\nThis is the Temperatue conventor. ")
+print ("\n      This is the Temperatue conventor. ")
+print ("      Developed by Min Sitt Paing Mhuu")
+print ("\n      Facebook ::https://www.facebook.com/minsitt.mspm ")
+print ("      Email :: #")
 
 #ask
 ask = input("\n1 : from Celsius(C*) to Fehrentheit(F*)\n2 : from Fehrentheit(F)* to Celsius(C*)\n3 : from Celsius(C*) to Kelvin(K)\n4 : from Fehrentheit(F)* to Kelvin(K)\n5 : from Kelvin(K) to Celsius(C*)\n6 : from Kelvin(K) to Fehrentheit(F)*\n\n( Type from 1 to 6! ) : ")
