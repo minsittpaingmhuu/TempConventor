@@ -46,6 +46,17 @@ chmod +x Conventor.py
 python3 Conventor.py
 
 
+#How to uninstall (Delete) Conventor
+=====================================
+
+chmod -R 777 TempConventor
+
+rm -rf TempConventor
+
+Good Luck!
+===============
+
+
 
 
 
