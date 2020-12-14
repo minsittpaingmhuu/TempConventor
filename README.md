@@ -1,6 +1,7 @@
 # TempConventor
 
 #How to install in Debian Based Linux
+============================================
 
 sudo su
 
@@ -18,7 +19,11 @@ chmod +x Conventor.py
 
 python3 Conventor.py
 
+
+
+
 #How to install in Termux
+================================
 
 pkg install update && pkg install upgrade -y
 
@@ -35,5 +40,10 @@ ls
 chmod +x Conventor.py
 
 python3 Conventor.py
+
+
+
+
+Goodluck!
 
 
