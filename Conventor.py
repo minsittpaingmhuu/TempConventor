@@ -62,6 +62,7 @@ def fun():
 
     else:
         print("!!--------Invaild Option (",ask,")--------!!")
+        fun1()
 
 def fun1():
     ask1 = input("Want to do it one more time ? (Type y/n) : ")
