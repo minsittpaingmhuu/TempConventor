@@ -29,7 +29,7 @@ pkg install update && pkg install upgrade -y
 
 pkg install root-repo
 
-pkg install python3 -y
+pkg install python -y
 
 git clone https://github.com/minsittpaingmhuu/TempConventor.git
 
