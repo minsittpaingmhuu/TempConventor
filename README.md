@@ -1,4 +1,4 @@
-# TempConventor (Version 1.1)
+# TempConventor (Version 1.1) Released on 14/12/2020
 
 #How to install in Debian Based Linux
 ============================================
