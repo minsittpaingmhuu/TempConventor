@@ -44,6 +44,4 @@ python3 Conventor.py
 
 
 
-Goodluck!
-
 
